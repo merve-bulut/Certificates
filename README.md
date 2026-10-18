@@ -1,4 +1,4 @@
 # Certificates
 
 iBootcamp
-<img src="Merve Bulut.pdf" width="400">
+<img src="Merve Bulut.png" width="400">
